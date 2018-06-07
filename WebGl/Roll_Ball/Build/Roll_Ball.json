@@ -1,0 +1,13 @@
+{
+"companyName": "Jora-GameCreator",
+"productName": "Roll Ball",
+"dataUrl": "Roll_Ball.data.unityweb",
+"asmCodeUrl": "Roll_Ball.asm.code.unityweb",
+"asmMemoryUrl": "Roll_Ball.asm.memory.unityweb",
+"asmFrameworkUrl": "Roll_Ball.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F1A580"
+}
